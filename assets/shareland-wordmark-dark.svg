@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360" height="80" viewBox="0 0 360 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url("https://api.fontshare.com/v2/css?f[]=neue-machina@800,300&amp;display=swap");
+    .wm-share { font-family: "neue-machina", sans-serif; font-weight: 800; font-size: 36px; fill: #FFFFFF; }
+    .wm-land { font-family: "neue-machina", sans-serif; font-weight: 300; font-size: 36px; fill: #FFFFFF; }
+    .wm-tm { font-family: "neue-machina", sans-serif; font-weight: 400; font-size: 14px; fill: #9A9A9A; }
+  </style>
+  <rect width="360" height="80" fill="#0A0A0A"/>
+  <g transform="translate(20, 50)">
+    <text class="wm-share" x="0" y="0">share</text>
+    <text class="wm-land" x="122" y="0">land</text>
+    <text class="wm-tm" x="212" y="-16">™</text>
+  </g>
+</svg>
